@@ -13,7 +13,7 @@
 #### Projects
 - [Redcoast-AI-Group/Orator](https://github.com/Redcoast-AI-Group/Orator)
   - **Orator**: Facilitating Academic Exchange and Enlightenment with AI
-- [Redcoast-AI-Group/ReactCodeAgent]()
+- [Redcoast-AI-Group/ReactCodeAgent](https://github.com/Redcoast-AI-Group/ReactCodeAgent)
   - **ReactCodeAgent**: Champion Solution of the 3rd Pazhou Algorithm Competition - GLM Legal Industry Large Model Challenge Track.
 
 #### News
